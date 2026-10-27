@@ -6,23 +6,20 @@ Cada projeto explora diferentes desafios de construção de interfaces, organiza
 
 ## 📂 Projetos
 
-### ✈️ Wayfarer — Travel Profile
+### ✈️ [Wayfarer — Travel Profile](https://github.com/LeonardoGodoy2005/Wayfarer)
 
-Interface de perfil voltada ao universo das viagens, com foco na apresentação visual de informações e na adaptação para diferentes tamanhos de tela.
+Interface de perfil de viagens desenvolvida com HTML e CSS.
 
-**Tecnologias:** HTML · CSS
+### 📰 [The Daily — News Portal](https://github.com/LeonardoGodoy2005/The-Daily)
 
-### 📰 The Daily — News Portal
+Portal de notícias responsivo desenvolvido com HTML e CSS.
 
-Portal de notícias com organização de conteúdo por seções, navegação entre categorias e layout inspirado em plataformas editoriais modernas.
+**Repositório:** adicione aqui o link correto do The Daily.
 
-**Tecnologias:** HTML · CSS
+### 🎓 [Enrollly — Enrollment Form](https://github.com/LeonardoGodoy2005/enrollly)
 
-### 🎓 Enrollly — Enrollment Form
+Formulário de matrícula responsivo com HTML, CSS e JavaScript, incluindo validação de campos e feedback visual.
 
-Formulário de matrícula responsivo com campos organizados por categoria, validação de informações, formatação automática de telefone e feedback visual ao usuário.
-
-**Tecnologias:** HTML · CSS · JavaScript
 
 ## 🛠️ Tecnologias utilizadas
 
